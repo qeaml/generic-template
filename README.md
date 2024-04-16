@@ -1,3 +1,3 @@
 # Generic
 
-Generic template for a project repository. 
+Generic template for a project repository.
